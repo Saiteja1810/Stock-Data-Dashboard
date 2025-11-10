@@ -9,9 +9,9 @@ This project processes raw stock market data to:
 3. Generate Parquet outputs for cleaned and aggregated data.
 4. Visualize metrics interactively in Streamlit.
 
-## 🗂️ Folder Structure
+##  Folder Structure
 stocks/
-├── raw_data.csv          # Original CSV/n
+├── raw_data.csv                # Original CSV
 ├── load_data.py                # Loads the data      
 ├── clean_data.py               # Cleans and normalizes schema
 ├── aggregate_data.py           # Builds aggregates (avg close, avg volume, returns)
