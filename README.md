@@ -11,7 +11,7 @@ This project processes raw stock market data to:
 
 ## 🗂️ Folder Structure
 stocks/
-├── raw_data.csv          # Original CSV
+├── raw_data.csv          # Original CSV/n
 ├── load_data.py                # Loads the data      
 ├── clean_data.py               # Cleans and normalizes schema
 ├── aggregate_data.py           # Builds aggregates (avg close, avg volume, returns)
